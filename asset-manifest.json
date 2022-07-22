@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75e4e12a.css",
+    "main.js": "/static/js/main.98b27065.js",
+    "static/js/787.9cced817.chunk.js": "/static/js/787.9cced817.chunk.js",
+    "static/media/Southburgh.png": "/static/media/Southburgh.e9b20e8bbe53fb0d4887.png",
+    "static/media/meat.png": "/static/media/meat.af64fdb4a790c97cbf03.png",
+    "static/media/carter_one.woff2": "/static/media/carter_one.6405f5fe2be6f272f81e.woff2",
+    "index.html": "/index.html",
+    "main.75e4e12a.css.map": "/static/css/main.75e4e12a.css.map",
+    "main.98b27065.js.map": "/static/js/main.98b27065.js.map",
+    "787.9cced817.chunk.js.map": "/static/js/787.9cced817.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e4e12a.css",
+    "static/js/main.98b27065.js"
+  ]
+}
